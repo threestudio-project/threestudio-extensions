@@ -1,4 +1,7 @@
-# ThreeStudio-Extensions
+<p align="left">
+<img alt="threestudio" src="https://github.com/threestudio-project/threestudio-extensions/assets/24589363/ae3a22e3-2ee0-4ffe-85c6-dbe50e64f5b0" width="75%">
+</p>
+
 Welcome to the repository for ThreeStudio-Extensions. This repository serves as a central hub where you can explore all the currently supported extensions for ThreeStudio in this [url](https://threestudio-project.github.io/threestudio-extensions/).
 
 ## How to register your extensions into ThreeStudio-Extensions
