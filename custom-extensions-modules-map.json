@@ -7,6 +7,13 @@
             "mvdream-system"
         ]
     ],
+    "https://github.com/DSaurus/threestudio-3dgs": [
+        [
+            "gaussian-splatting",
+            "diff-gaussian-rasterizer",
+            "gaussian-splatting-system"
+        ]
+    ],
     "https://github.com/DSaurus/threestudio-meshfitting": [
         [
             "mesh-fitting-obj-mesh",

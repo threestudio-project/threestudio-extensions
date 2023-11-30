@@ -11,6 +11,16 @@
             "description": "MVDream extension of ThreeStudio."
         },
         {
+            "author": "ThreeStudio project",
+            "title": "ThreeStudio-3DGS",
+            "reference": "https://github.com/DSaurus/threestudio-3dgs",
+            "files": [
+                "https://github.com/DSaurus/threestudio-3dgs"
+            ],
+            "install_type": "git-clone",
+            "description": "3D Gaussian Splatting extension of ThreeStudio."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "ThreeStudio-MeshFitting",
             "reference": "https://github.com/DSaurus/threestudio-meshfitting",
