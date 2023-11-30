@@ -1,0 +1,18 @@
+{
+    "https://github.com/DSaurus/threestudio-mvdream": [
+        [
+            "mvdream-neural-environment-map-background",
+            "mvdream-random-multiview-camera-datamodule",
+            "mvdream-multiview-diffusion-guidance",
+            "mvdream-system"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-meshfitting": [
+        [
+            "mesh-fitting-obj-mesh",
+            "mesh-fitting-guidance",
+            "mesh-fitting-renderer",
+            "mesh-fitting-system"
+        ]
+    ]
+}
