@@ -9,9 +9,9 @@ Add your extension to `threestudio-extensions-list.json` which is located in the
 
 - First, under the original ThreeStudio project, create a new folder within the 'custom' directory and name it, for example `my_extension`.
 
-Inside this `my_extension` folder, you can implement your extension. It's important to note that any module or class you wish to import as a plugin must be registered with a unique class name to avoid conflicts with other extensions. This is done using the @threestudio.register("my_modules") decorator.
+- Inside this `my_extension` folder, you can implement your extension. It's important to note that any module or class you wish to import as a plugin must be registered with a unique class name to avoid conflicts with other extensions. This is done using the @threestudio.register("my_modules") decorator.
 
-Finally, create an `__init__.py` file within your `my_extension`` folder. In this file, import the Python files that are part of your extension.
+- Finally, create an `__init__.py` file within your `my_extension`` folder. In this file, import the Python files that are part of your extension.
 
 ## Acknowledgement
 
