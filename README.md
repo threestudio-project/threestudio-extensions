@@ -1,5 +1,5 @@
 # ThreeStudio-Extensions
-Welcome to the repository for ThreeStudio-Extensions, a comprehensive list of all extensions for ThreeStudio. This repository serves as a central hub where you can explore all the currently supported extensions for ThreeStudio in this [url](https://threestudio-project.github.io/threestudio-extensions/).
+Welcome to the repository for ThreeStudio-Extensions. This repository serves as a central hub where you can explore all the currently supported extensions for ThreeStudio in this [url](https://threestudio-project.github.io/threestudio-extensions/).
 
 ## How to register your extensions into ThreeStudio-Extensions
 
