@@ -189,10 +189,10 @@
 
 			async function load() {
                 // todo
-				let ext_list = await fetch('https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json');
+				let ext_list = await fetch('https://raw.githubusercontent.com/threestudio-project/threestudio-extensions/master/custom-extensions-list.json');
 				let exts = await ext_list.json();
                 // todo
-				let node_map = await (await fetch('https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json')).json();
+				let node_map = await (await fetch('https://raw.githubusercontent.com/threestudio-project/threestudio-extensions/master/custom-extensions-modules-map.json')).json();
 
 				const tableBody = document.querySelector('#json-table tbody');
 
@@ -241,7 +241,7 @@
 						const nodeRowLabel = document.createElement('td');
 						const nodes = document.createElement('td');
 
-						nodeRowLabel.innerHTML = "<B>NODES</B>";
+						nodeRowLabel.innerHTML = "<B>Modules</B>";
 
 						nodes.setAttribute('colspan', '4');
 
