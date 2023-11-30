@@ -1,0 +1,24 @@
+{
+    "custom_nodes": [
+        {
+            "author": "ThreeStudio project",
+            "title": "ThreeStudio-MVDream",
+            "reference": "https://github.com/DSaurus/threestudio-mvdream",
+            "files": [
+                "https://github.com/DSaurus/threestudio-mvdream"
+            ],
+            "install_type": "git-clone",
+            "description": "MVDream extension of ThreeStudio."
+        },
+        {
+            "author": "Ruizhi Shao",
+            "title": "ThreeStudio-MeshFitting",
+            "reference": "https://github.com/DSaurus/threestudio-meshfitting",
+            "files": [
+                "https://github.com/DSaurus/threestudio-meshfitting"
+            ],
+            "install_type": "git-clone",
+            "description": "Use neural representation in ThreeStudio to fit a mesh."
+        }
+    ]
+}
