@@ -115,7 +115,7 @@
         &nbsp;
         [<a href="https://github.com/threestudio-project/threestudio-extensions" target="blank"/>ThreeStudio-Extensions</a>]
         &nbsp;
-        [<a href="TODOhttps://github.com/ltdrdata/ltdrdata.github.io" target="blank"/>ltdrdata.github.io</a>]
+        [<a href="https://threestudio-project.github.io/threestudio-extensions/" target="blank"/>threestudio-project.github.io/threestudio-extensions/</a>]
 		
 		<div id="search-bar">
 			<label for="searchType">Type:</label>
@@ -188,10 +188,8 @@
 			let sortAscending = true;
 
 			async function load() {
-                // todo
 				let ext_list = await fetch('https://raw.githubusercontent.com/threestudio-project/threestudio-extensions/master/custom-extensions-list.json');
 				let exts = await ext_list.json();
-                // todo
 				let node_map = await (await fetch('https://raw.githubusercontent.com/threestudio-project/threestudio-extensions/master/custom-extensions-modules-map.json')).json();
 
 				const tableBody = document.querySelector('#json-table tbody');
