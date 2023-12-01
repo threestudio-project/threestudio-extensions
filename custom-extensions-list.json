@@ -1,38 +1,38 @@
 {
     "custom_nodes": [
         {
-            "author": "ThreeStudio project",
-            "title": "ThreeStudio-MVDream",
+            "author": "threestudio project",
+            "title": "threestudio-MVDream",
             "reference": "https://github.com/DSaurus/threestudio-mvdream",
             "files": [
                 "https://github.com/DSaurus/threestudio-mvdream"
             ],
             "install_type": "git-clone",
-            "description": "MVDream extension of ThreeStudio. MVDream: Multi-view Diffusion for 3D Generation"
+            "description": "MVDream extension of threestudio. MVDream: Multi-view Diffusion for 3D Generation"
         },
         {
-            "author": "ThreeStudio project",
-            "title": "ThreeStudio-3DGS",
+            "author": "threestudio project",
+            "title": "threestudio-3DGS",
             "reference": "https://github.com/DSaurus/threestudio-3dgs",
             "files": [
                 "https://github.com/DSaurus/threestudio-3dgs"
             ],
             "install_type": "git-clone",
-            "description": "3D Gaussian Splatting extension of ThreeStudio."
+            "description": "3D Gaussian Splatting extension of threestudio."
         },
         {
             "author": "Ruizhi Shao",
-            "title": "ThreeStudio-MeshFitting",
+            "title": "threestudio-MeshFitting",
             "reference": "https://github.com/DSaurus/threestudio-meshfitting",
             "files": [
                 "https://github.com/DSaurus/threestudio-meshfitting"
             ],
             "install_type": "git-clone",
-            "description": "Use neural representation in ThreeStudio to fit a mesh."
+            "description": "Use neural representation in threestudio to fit a mesh."
         },
         {
-            "author": "ThreeStudio project",
-            "title": "ThreeStudio-4DFY (coming soon)",
+            "author": "threestudio project",
+            "title": "threestudio-4DFY (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-4dfy",
             "files": [
                 "https://github.com/DSaurus/threestudio-4dfy"
@@ -42,7 +42,7 @@
         },
         {
             "author": "Ruizhi Shao",
-            "title": "ThreeStudio-4DGS (coming soon)",
+            "title": "threestudio-4DGS (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-dynamic-gaussian",
             "files": [
                 "https://github.com/DSaurus/threestudio-dynamic-gaussian"
@@ -52,7 +52,7 @@
         },
         {
             "author": "Ruizhi Shao",
-            "title": "ThreeStudio-StableNeRFRenderer (coming soon)",
+            "title": "threestudio-StableNeRFRenderer (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-stable-nerf-renderer",
             "files": [
                 "https://github.com/DSaurus/threestudio-stable-nerf-renderer"
@@ -61,8 +61,8 @@
             "description": "Stablize the GPU memory usage by limiting the ray nums of NeRF renderer."
         },
         {
-            "author": "ThreeStudio project",
-            "title": "ThreeStudio-GaussianDreamer (coming soon)",
+            "author": "threestudio project",
+            "title": "threestudio-GaussianDreamer (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-gaussiandreamer",
             "files": [
                 "https://github.com/DSaurus/threestudio-gaussiandreamer"
