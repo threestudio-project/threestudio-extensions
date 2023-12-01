@@ -8,7 +8,7 @@
                 "https://github.com/DSaurus/threestudio-mvdream"
             ],
             "install_type": "git-clone",
-            "description": "MVDream extension of ThreeStudio."
+            "description": "MVDream extension of ThreeStudio. MVDream: Multi-view Diffusion for 3D Generation"
         },
         {
             "author": "ThreeStudio project",
@@ -29,6 +29,46 @@
             ],
             "install_type": "git-clone",
             "description": "Use neural representation in ThreeStudio to fit a mesh."
+        },
+        {
+            "author": "ThreeStudio project",
+            "title": "ThreeStudio-4DFY (coming soon)",
+            "reference": "https://github.com/DSaurus/threestudio-4dfy",
+            "files": [
+                "https://github.com/DSaurus/threestudio-4dfy"
+            ],
+            "install_type": "git-clone",
+            "description": "Text-to-4d generation extension. 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling"
+        },
+        {
+            "author": "Ruizhi Shao",
+            "title": "ThreeStudio-4DGS (coming soon)",
+            "reference": "https://github.com/DSaurus/threestudio-dynamic-gaussian",
+            "files": [
+                "https://github.com/DSaurus/threestudio-dynamic-gaussian"
+            ],
+            "install_type": "git-clone",
+            "description": "Dynamic Gaussian Splatting extension of threestudio."
+        },
+        {
+            "author": "Ruizhi Shao",
+            "title": "ThreeStudio-StableNeRFRenderer (coming soon)",
+            "reference": "https://github.com/DSaurus/threestudio-stable-nerf-renderer",
+            "files": [
+                "https://github.com/DSaurus/threestudio-stable-nerf-renderer"
+            ],
+            "install_type": "git-clone",
+            "description": "Stablize the GPU memory usage by limiting the ray nums of NeRF renderer."
+        },
+        {
+            "author": "Ruizhi Shao",
+            "title": "ThreeStudio-GaussianDreamer (coming soon)",
+            "reference": "https://github.com/DSaurus/threestudio-gaussiandreamer",
+            "files": [
+                "https://github.com/DSaurus/threestudio-gaussiandreamer"
+            ],
+            "install_type": "git-clone",
+            "description": "GaussianDreamer extension of Threestudio. GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models."
         }
     ]
 }
