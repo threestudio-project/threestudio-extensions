@@ -61,7 +61,7 @@
             "description": "Stablize the GPU memory usage by limiting the ray nums of NeRF renderer."
         },
         {
-            "author": "Ruizhi Shao",
+            "author": "ThreeStudio project",
             "title": "ThreeStudio-GaussianDreamer (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-gaussiandreamer",
             "files": [
