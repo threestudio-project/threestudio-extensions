@@ -2,7 +2,7 @@
     "custom_nodes": [
         {
             "author": "threestudio project",
-            "title": "threestudio-MVDream",
+            "title": "threestudio-mvdream",
             "reference": "https://github.com/DSaurus/threestudio-mvdream",
             "files": [
                 "https://github.com/DSaurus/threestudio-mvdream"
@@ -12,7 +12,7 @@
         },
         {
             "author": "threestudio project",
-            "title": "threestudio-3DGS",
+            "title": "threestudio-3dgs",
             "reference": "https://github.com/DSaurus/threestudio-3dgs",
             "files": [
                 "https://github.com/DSaurus/threestudio-3dgs"
@@ -22,7 +22,7 @@
         },
         {
             "author": "Ruizhi Shao",
-            "title": "threestudio-MeshFitting",
+            "title": "threestudio-meshfitting",
             "reference": "https://github.com/DSaurus/threestudio-meshfitting",
             "files": [
                 "https://github.com/DSaurus/threestudio-meshfitting"
@@ -32,7 +32,7 @@
         },
         {
             "author": "threestudio project",
-            "title": "threestudio-4DFY (coming soon)",
+            "title": "threestudio-4dfy",
             "reference": "https://github.com/DSaurus/threestudio-4dfy",
             "files": [
                 "https://github.com/DSaurus/threestudio-4dfy"
@@ -42,7 +42,7 @@
         },
         {
             "author": "Ruizhi Shao",
-            "title": "threestudio-4DGS (coming soon)",
+            "title": "threestudio-dynamic-gaussian",
             "reference": "https://github.com/DSaurus/threestudio-dynamic-gaussian",
             "files": [
                 "https://github.com/DSaurus/threestudio-dynamic-gaussian"
@@ -52,7 +52,7 @@
         },
         {
             "author": "Ruizhi Shao",
-            "title": "threestudio-StableNeRFRenderer (coming soon)",
+            "title": "threestudio-stable-nerf-renderer",
             "reference": "https://github.com/DSaurus/threestudio-stable-nerf-renderer",
             "files": [
                 "https://github.com/DSaurus/threestudio-stable-nerf-renderer"
@@ -62,7 +62,7 @@
         },
         {
             "author": "threestudio project",
-            "title": "threestudio-GaussianDreamer (coming soon)",
+            "title": "threestudio-gaussiandreamer",
             "reference": "https://github.com/DSaurus/threestudio-gaussiandreamer",
             "files": [
                 "https://github.com/DSaurus/threestudio-gaussiandreamer"

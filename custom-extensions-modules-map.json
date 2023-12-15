@@ -1,4 +1,12 @@
 {
+    "https://github.com/DSaurus/threestudio-meshfitting": [
+        [
+            "mesh-fitting-obj-mesh",
+            "mesh-fitting-guidance",
+            "mesh-fitting-renderer",
+            "mesh-fitting-system"
+        ]
+    ],
     "https://github.com/DSaurus/threestudio-mvdream": [
         [
             "mvdream-neural-environment-map-background",
@@ -9,17 +17,31 @@
     ],
     "https://github.com/DSaurus/threestudio-3dgs": [
         [
+            "gaussian-mvdream-neural-environment-map-background",
             "gaussian-splatting",
+            "gaussian-diffuse-with-point-light-material",
             "diff-gaussian-rasterizer",
+            "diff-gaussian-rasterizer-advanced",
+            "diff-gaussian-rasterizer-background",
+            "diff-gaussian-rasterizer-shading",
+            "gaussian-splatting-mvdream-system",
             "gaussian-splatting-system"
         ]
     ],
-    "https://github.com/DSaurus/threestudio-meshfitting": [
+    "https://github.com/DSaurus/threestudio-4dfy": [
         [
-            "mesh-fitting-obj-mesh",
-            "mesh-fitting-guidance",
-            "mesh-fitting-renderer",
-            "mesh-fitting-system"
+            "4dfy-random-camera-datamodule",
+            "4dfy-random-multiview-camera-datamodule",
+            "4dfy-single-multiview-combined-camera-datamodule",
+            "4dfy-zeroscope-guidance",
+            "4dfy-zeroscope-prompt-processor",
+            "fourdfy-system"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-stable-nerf-renderer": [
+        [
+            "mask-nerf-volume-renderer",
+            "stable-nerf-volume-renderer"
         ]
     ]
 }
