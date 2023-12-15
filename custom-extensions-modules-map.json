@@ -43,5 +43,17 @@
             "mask-nerf-volume-renderer",
             "stable-nerf-volume-renderer"
         ]
+    ],
+    "https://github.com/DSaurus/threestudio-shap-e": [
+        [
+            "shap-e-guidance"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-dreamcraft3D": [
+        [
+            "dreamcraft3d-single-image-datamodule",
+            "dreamcraft3d-stable-diffusion-bsd-guidance",
+            "dreamcraft3d-system"
+        ]
     ]
 }
