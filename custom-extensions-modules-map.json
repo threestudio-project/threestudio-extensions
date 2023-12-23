@@ -18,14 +18,18 @@
     "https://github.com/DSaurus/threestudio-3dgs": [
         [
             "gaussian-mvdream-neural-environment-map-background",
+            "gaussian-mesh-exporter",
+            "gaussian-splatting-planes",
             "gaussian-splatting",
+            "gaussian-splatting-base",
             "gaussian-diffuse-with-point-light-material",
             "diff-gaussian-rasterizer",
             "diff-gaussian-rasterizer-advanced",
             "diff-gaussian-rasterizer-background",
             "diff-gaussian-rasterizer-shading",
             "gaussian-splatting-mvdream-system",
-            "gaussian-splatting-system"
+            "gaussian-splatting-system",
+            "gaussian-splatting-zero123-system"
         ]
     ],
     "https://github.com/DSaurus/threestudio-4dfy": [
@@ -53,7 +57,22 @@
         [
             "dreamcraft3d-single-image-datamodule",
             "dreamcraft3d-stable-diffusion-bsd-guidance",
+            "dreamcraft3d-stable-diffusion-bsd-lora-guidance",
+            "dreamcraft3d-mask-nvdiff-rasterizer",
             "dreamcraft3d-system"
+        ]
+    ],
+    "https://github.com/HeliosZhao/Animate124/tree/threestudio": [
+        [
+            "dynamic-random-camera-datamodule",
+            "animate124-image-video-combined-camera-datamodule",
+            "animate124-implicit-volume",
+            "animate124-controlnet-tile-guidance",
+            "animate124-zeroscope-guidance",
+            "animate124-zeroscope-prompt-processor",
+            "animate124-textual-inversion-prompt-processor",
+            "animate124-nerf-volume-renderer",
+            "animate124-system"
         ]
     ]
 }

@@ -41,6 +41,16 @@
             "description": "Text-to-4d generation extension. 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling"
         },
         {
+            "author": "Yuyang Zhao",
+            "title": "threestudio-animate124",
+            "reference": "https://github.com/HeliosZhao/Animate124/",
+            "files": [
+                "https://github.com/HeliosZhao/Animate124/tree/threestudio"
+            ],
+            "install_type": "git-clone",
+            "description": "Image-to-4d generation extension. Animate124: Animating One Image to 4D Dynamic Scene."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "threestudio-dreamcraft3D",
             "reference": "https://github.com/DSaurus/threestudio-dreamcraft3D",
