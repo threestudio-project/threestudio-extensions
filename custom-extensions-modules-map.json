@@ -74,5 +74,10 @@
             "animate124-nerf-volume-renderer",
             "animate124-system"
         ]
+    ],
+    "https://github.com/Adamdad/threestudio-lrm": [
+        [
+            "lrm-guidance"
+        ]
     ]
 }
