@@ -71,6 +71,16 @@
         "description": "The shap-e guidance extension of threestudio. Shap-E: Generating Conditional 3D Implicit Functions."
         },
         {
+            "author": "Xingyi Yang",
+            "title": "threestudio-lrm",
+            "reference": "https://github.com/Adamdad/threestudio-lrm",
+            "files": [
+                "https://github.com/Adamdad/threestudio-lrm"
+            ],
+            "install_type": "git-clone",
+        "description": "The LRM guidance extension of threestudio. Lrm: Large reconstruction model for single image to 3d."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "threestudio-stable-nerf-renderer",
             "reference": "https://github.com/DSaurus/threestudio-stable-nerf-renderer",
