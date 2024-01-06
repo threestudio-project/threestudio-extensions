@@ -61,6 +61,16 @@
             "description": "The DreamCraft3D extension of threestudio. DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior."
         },
         {
+            "author": "Baorui Ma",
+            "title": "threestudio-geodream",
+            "reference": "https://github.com/baaivision/GeoDream/tree/threestudio",
+            "files": [
+                "https://github.com/baaivision/GeoDream/tree/threestudio"
+            ],
+            "install_type": "git-clone",
+            "description": "GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "threestudio-shap-e",
             "reference": "https://github.com/DSaurus/threestudio-shap-e",

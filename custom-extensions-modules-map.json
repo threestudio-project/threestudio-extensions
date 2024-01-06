@@ -18,15 +18,15 @@
     "https://github.com/DSaurus/threestudio-3dgs": [
         [
             "gaussian-mvdream-neural-environment-map-background",
-            "gaussian-mesh-exporter",
-            "gaussian-splatting-planes",
-            "gaussian-splatting",
-            "gaussian-splatting-base",
             "gaussian-diffuse-with-point-light-material",
             "diff-gaussian-rasterizer",
             "diff-gaussian-rasterizer-advanced",
             "diff-gaussian-rasterizer-background",
             "diff-gaussian-rasterizer-shading",
+            "gaussian-splatting-io",
+            "gaussian-splatting",
+            "gaussian-splatting-dynamic",
+            "gaussian-mesh-exporter",
             "gaussian-splatting-mvdream-system",
             "gaussian-splatting-system",
             "gaussian-splatting-zero123-system"
@@ -78,6 +78,15 @@
     "https://github.com/Adamdad/threestudio-lrm": [
         [
             "lrm-guidance"
+        ]
+    ],
+    "https://github.com/baaivision/GeoDream/tree/threestudio": [
+        [
+            "random-camera-datamodule-geodream",
+            "geodream-geometry",
+            "tetrahedra-sdf-grid-geodream",
+            "geodream-volume-renderer",
+            "prolificdreamerLR-system"
         ]
     ]
 }
