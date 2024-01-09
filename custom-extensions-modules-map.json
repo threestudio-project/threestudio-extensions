@@ -17,19 +17,31 @@
     ],
     "https://github.com/DSaurus/threestudio-3dgs": [
         [
+            "gaussian-background",
             "gaussian-mvdream-neural-environment-map-background",
             "gaussian-diffuse-with-point-light-material",
+            "gaussian-mesh-exporter",
+            "gaussian-splatting-io",
+            "gaussian-splatting",
+            "gaussian-splatting-dynamic",
             "diff-gaussian-rasterizer",
             "diff-gaussian-rasterizer-advanced",
             "diff-gaussian-rasterizer-background",
             "diff-gaussian-rasterizer-shading",
-            "gaussian-splatting-io",
-            "gaussian-splatting",
-            "gaussian-splatting-dynamic",
-            "gaussian-mesh-exporter",
+            "random-camera-sampler-datamodule",
+            "diffusers-guidance",
+            "diffusers-stable-diffusion-guidance",
+            "diffusers-controlnet-guidance",
+            "diffusers-deep-floyd-guidance",
+            "diffusers-stable-diffusion-xl-guidance",
+            "hifa-sampler",
+            "image-sampler",
+            "ism-sampler",
+            "sds-sampler",
             "gaussian-splatting-mvdream-system",
             "gaussian-splatting-system",
-            "gaussian-splatting-zero123-system"
+            "gaussian-splatting-zero123-system",
+            "gaussian-splatting-base-system"
         ]
     ],
     "https://github.com/DSaurus/threestudio-4dfy": [
@@ -87,6 +99,13 @@
             "tetrahedra-sdf-grid-geodream",
             "geodream-volume-renderer",
             "prolificdreamerLR-system"
+        ]
+    ],
+    "https://github.com/huanngzh/threestudio-dreamwaltz": [
+        [
+            "smpl-prior-camera-datamodule",
+            "multi-controlnet-guidance",
+            "dreamwaltz-system"
         ]
     ]
 }
