@@ -71,6 +71,16 @@
             "description": "GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation."
         },
         {
+            "author": "Zehuan Huang",
+            "title": "threestudio-dreamwaltz",
+            "reference": "https://github.com/huanngzh/threestudio-dreamwaltz",
+            "files": [
+                "https://github.com/huanngzh/threestudio-dreamwaltz"
+            ],
+            "install_type": "git-clone",
+            "description": "The DreamWaltz extension of threestudio. DreamWaltz: Make a Scene with Complex 3D Animatable Avatars."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "threestudio-shap-e",
             "reference": "https://github.com/DSaurus/threestudio-shap-e",
