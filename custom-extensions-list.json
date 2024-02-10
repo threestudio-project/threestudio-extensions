@@ -111,11 +111,11 @@
             "description": "Stablize the GPU memory usage by limiting the ray nums of NeRF renderer."
         },
         {
-            "author": "threestudio project",
-            "title": "threestudio-gaussiandreamer (coming soon)",
-            "reference": "https://github.com/DSaurus/threestudio-gaussiandreamer",
+            "author": "Xinhua Cheng",
+            "title": "threestudio-gaussiandreamer",
+            "reference": "https://github.com/cxh0519/threestudio-gaussiandreamer",
             "files": [
-                "https://github.com/DSaurus/threestudio-gaussiandreamer"
+                "https://github.com/cxh0519/threestudio-gaussiandreamer"
             ],
             "install_type": "git-clone",
             "description": "GaussianDreamer extension of Threestudio. GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models."
