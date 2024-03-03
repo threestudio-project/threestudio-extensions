@@ -107,5 +107,16 @@
             "multi-controlnet-guidance",
             "dreamwaltz-system"
         ]
+    ],
+    "https://github.com/cxh0519/threestudio-gaussiandreamer": [
+        [
+            "gaussiandreamer-background",
+            "gaussiandreamer-mesh-exporter",
+            "gaussiandreamer-io",
+            "gaussiandreamer-base",
+            "gaussiandreamer-rasterizer",
+            "gaussiandreamer-mvdream-system",
+            "gaussiandreamer-system"
+        ]
     ]
 }
