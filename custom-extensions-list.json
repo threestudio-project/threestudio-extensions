@@ -121,6 +121,16 @@
             "description": "GaussianDreamer extension of Threestudio. GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models."
         },
         {
+            "author": "Xinhua Cheng",
+            "title": "threestudio-progressive3d",
+            "reference": "https://github.com/cxh0519/Progressive3D",
+            "files": [
+                "https://github.com/cxh0519/Progressive3D/tree/main/threestudio-progressive3d"
+            ],
+            "install_type": "git-clone",
+            "description": "Progressive3D extension of Threestudio. Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts."
+        },
+        {
             "author": "Ruizhi Shao",
             "title": "threestudio-dynamic-gaussian (coming soon)",
             "reference": "https://github.com/DSaurus/threestudio-dynamic-gaussian",
