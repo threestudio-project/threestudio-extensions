@@ -129,6 +129,16 @@
             ],
             "install_type": "git-clone",
             "description": "Dynamic Gaussian Splatting extension of threestudio."
+        },
+        {
+            "author": "KU-CVLAB" ,
+            "title": "threestudio-3dfuse",
+            "reference": "https://github.com/KU-CVLAB/3DFuse-threestudio",
+            "files": [
+                "https://github.com/KU-CVLAB/3DFuse-threestudio"
+            ],
+            "install_type": "git-clone",
+            "description": "3DFuse (combined with ProlificDreamer) extension of threestudio. "
         }
     ]
 }
