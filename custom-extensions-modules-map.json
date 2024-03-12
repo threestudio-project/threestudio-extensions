@@ -1,20 +1,4 @@
 {
-    "https://github.com/DSaurus/threestudio-meshfitting": [
-        [
-            "mesh-fitting-obj-mesh",
-            "mesh-fitting-guidance",
-            "mesh-fitting-renderer",
-            "mesh-fitting-system"
-        ]
-    ],
-    "https://github.com/DSaurus/threestudio-mvdream": [
-        [
-            "mvdream-neural-environment-map-background",
-            "mvdream-random-multiview-camera-datamodule",
-            "mvdream-multiview-diffusion-guidance",
-            "mvdream-system"
-        ]
-    ],
     "https://github.com/DSaurus/threestudio-3dgs": [
         [
             "gaussian-background",
@@ -54,26 +38,6 @@
             "fourdfy-system"
         ]
     ],
-    "https://github.com/DSaurus/threestudio-stable-nerf-renderer": [
-        [
-            "mask-nerf-volume-renderer",
-            "stable-nerf-volume-renderer"
-        ]
-    ],
-    "https://github.com/DSaurus/threestudio-shap-e": [
-        [
-            "shap-e-guidance"
-        ]
-    ],
-    "https://github.com/DSaurus/threestudio-dreamcraft3D": [
-        [
-            "dreamcraft3d-single-image-datamodule",
-            "dreamcraft3d-stable-diffusion-bsd-guidance",
-            "dreamcraft3d-stable-diffusion-bsd-lora-guidance",
-            "dreamcraft3d-mask-nvdiff-rasterizer",
-            "dreamcraft3d-system"
-        ]
-    ],
     "https://github.com/HeliosZhao/Animate124/tree/threestudio": [
         [
             "dynamic-random-camera-datamodule",
@@ -87,18 +51,13 @@
             "animate124-system"
         ]
     ],
-    "https://github.com/Adamdad/threestudio-lrm": [
+    "https://github.com/DSaurus/threestudio-dreamcraft3D": [
         [
-            "lrm-guidance"
-        ]
-    ],
-    "https://github.com/baaivision/GeoDream/tree/threestudio": [
-        [
-            "random-camera-datamodule-geodream",
-            "geodream-geometry",
-            "tetrahedra-sdf-grid-geodream",
-            "geodream-volume-renderer",
-            "prolificdreamerLR-system"
+            "dreamcraft3d-single-image-datamodule",
+            "dreamcraft3d-stable-diffusion-bsd-guidance",
+            "dreamcraft3d-stable-diffusion-bsd-lora-guidance",
+            "dreamcraft3d-mask-nvdiff-rasterizer",
+            "dreamcraft3d-system"
         ]
     ],
     "https://github.com/huanngzh/threestudio-dreamwaltz": [
@@ -117,6 +76,55 @@
             "gaussiandreamer-rasterizer",
             "gaussiandreamer-mvdream-system",
             "gaussiandreamer-system"
+        ]
+    ],
+    "https://github.com/baaivision/GeoDream/tree/threestudio": [
+        [
+            "random-camera-datamodule-geodream",
+            "geodream-geometry",
+            "tetrahedra-sdf-grid-geodream",
+            "geodream-volume-renderer",
+            "prolificdreamerLR-system"
+        ]
+    ],
+    "https://github.com/Adamdad/threestudio-lrm": [
+        [
+            "lrm-guidance"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-meshfitting": [
+        [
+            "mesh-fitting-obj-mesh",
+            "mesh-fitting-guidance",
+            "mesh-fitting-renderer",
+            "mesh-fitting-system"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-mvdream": [
+        [
+            "mvdream-neural-environment-map-background",
+            "mvdream-random-multiview-camera-datamodule",
+            "mvdream-multiview-diffusion-guidance",
+            "mvdream-system"
+        ]
+    ],
+    "https://github.com/cxh0519/Progressive3D/tree/main/threestudio-progressive3d": [
+        [
+            "mvdream-random-multiview-progressive3d-camera-datamodule",
+            "mvdream-multiview-progressive3d-diffusion-guidance",
+            "diffuse-with-point-light-material-progressive3d",
+            "mvdream-progressive3d-system"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-shap-e": [
+        [
+            "shap-e-guidance"
+        ]
+    ],
+    "https://github.com/DSaurus/threestudio-stable-nerf-renderer": [
+        [
+            "mask-nerf-volume-renderer",
+            "stable-nerf-volume-renderer"
         ]
     ]
 }
