@@ -150,5 +150,15 @@
             "install_type": "git-clone",
             "description": "3DFuse (combined with ProlificDreamer) extension of threestudio. "
         }
+        {
+            "author": "Amir Barda" ,
+            "title": "threestudio-magicclay",
+            "reference": "https://github.com/amirbarda/MagicClay",
+            "files": [
+                "https://github.com/amirbarda/MagicClay/tree/main/threestudio-magicclay"
+            ],
+            "install_type": "git-clone",
+            "description": "MagicClay extension of threestudio. "
+        }
     ]
 }
