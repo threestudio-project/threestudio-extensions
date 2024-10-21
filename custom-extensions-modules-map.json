@@ -126,5 +126,16 @@
             "mask-nerf-volume-renderer",
             "stable-nerf-volume-renderer"
         ]
+    ],
+    "https://github.com/amirbarda/MagicClay/tree/main/threestudio-magicclay": [
+        [
+            "threestudio-magicclay",
+            "hybrid-random-camera-datamodule",
+            "dynamic-mesh",
+            "magicclay-implicit-sdf",
+            "neus-volume-renderer2",
+            "magicclay-nvdiff-rasterizer",
+            "magicclay-diffuse-with-point-light-material"
+        ]
     ]
 }
